@@ -67,6 +67,7 @@
     <Compile Include="Assets\DetectObject.cs" />
     <Compile Include="Assets\JumpAdvanced.cs" />
     <Compile Include="Assets\Movement.cs" />
+    <Compile Include="Assets\SoundEffects.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>E:/GitHub/Summer-Project/Example Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
